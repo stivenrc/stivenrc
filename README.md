@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stiven Riascos</h1>
-<h3 align="center">Soy de Colombia, Aprendiz de programación y nuevas tecnologías</h3>
+<h3 align="center">I am from Colombia, programming and new technologies apprentice, I like to learn more and more about prompts engineering</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stivenrc" alt="stivenrc" /></a> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 🤝 I’m looking for help with **Js, python, php**
+- 🤝 I’m looking for help with **Js, python, php, mysql**
 
 - 📫 How to reach me **stiven.castroo@gmail.com**
 
