@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stiven Riascos</h1>
-<h3 align="center">I am from Colombia, programming and new technologies apprentice, I like to learn more and more about prompts engineering</h3>
+<h3 align="center">Colombian intrigued by programming and new technologies, passionately delving into the intriguing world of generative intelligence. 🌎🚀 On a quest to uncover the secrets behind this captivating form of innovation. 🌟✨</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stivenrc" alt="stivenrc" /></a> </p>
 
